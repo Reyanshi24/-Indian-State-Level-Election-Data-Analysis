@@ -85,3 +85,25 @@ The analysis processes state-level election data to reveal a distinct polarizati
 
 ---
 
+# Graphs
+
+<img width="984" height="484" alt="image" src="https://github.com/user-attachments/assets/608e9920-8bdf-4fa1-ae7e-93c509357c99" />
+
+<img width="1044" height="556" alt="image" src="https://github.com/user-attachments/assets/e8514e52-707d-4e16-8034-84b03108ce56" />
+
+<img width="1006" height="556" alt="image" src="https://github.com/user-attachments/assets/55458da8-a204-49ef-85f8-059679bc2c94" />
+
+<img width="1006" height="556" alt="image" src="https://github.com/user-attachments/assets/b1cde38f-c051-4925-8de1-95285ae1fa9b" />
+
+<img width="1180" height="684" alt="image" src="https://github.com/user-attachments/assets/b79924dc-7ebb-46c8-89e4-32f95018d91e" />
+
+<img width="985" height="784" alt="image" src="https://github.com/user-attachments/assets/c2e6c650-f314-4c12-a30e-33a1d9ec1781" />
+
+<img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/12707975-dc30-42b0-b737-121901a96292" />
+
+<img width="980" height="584" alt="image" src="https://github.com/user-attachments/assets/45b5cf56-86ba-4e3c-8827-08ba6c728f0c" />
+
+<img width="1181" height="684" alt="image" src="https://github.com/user-attachments/assets/52293e73-f94b-4ec3-8627-d231d0e5a0e4" />
+
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/b1273b87-82d5-4501-ab8b-4a4be202d166" />
+
