@@ -54,7 +54,7 @@ Matplotlib & Seaborn: For data visualization and plotting.
 ```
 ├── detailed_election_insights.ipynb   # Main analysis notebook
 ├── README.md                          # Project documentation
-└── [Dataset Files]                     # (Ensure your CSV/Excel dataset is listed here)
+└── [Dataset Files]                    # (Ensure your CSV/Excel dataset is listed here)
 ```
 
 ---
